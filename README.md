@@ -7,6 +7,7 @@ $ ./a.out
 ```
 
 ## Demo
+![It's spinning!](https://github.com/EclipseIsDead/tetra.c/blob/main/tetra.gif)
 
 ## Annotated Code
 This is the nonobfuscated version of the code, with comments explaining what each part does.
